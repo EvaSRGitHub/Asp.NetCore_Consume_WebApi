@@ -1,0 +1,19 @@
+﻿@model WebApiModels.ToDoInputModel
+
+<form method="post" asp-controller="Home" asp-action="Delete">
+    <div class="form-row">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <select asp-for="JsonObj" class="form-control">
+                @foreach (var item in Model.Items)
+                {
+                    <option value= "{'id': '@item.Id', 'isComplete': '@item.IsComplete', 'name': '@item.Name'}">@item.Name</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn btn-info">Delete</button>
+    </div>
+</form>

@@ -1,0 +1,18 @@
+﻿@model WebApiModels.ToDoInputModel
+
+<form method="post" asp-controller="Home" asp-action="Index">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label asp-for="Name" class="text-center"></label>
+            <input asp-for="Name" class="form-control" placeholder="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="button-holder d-flex justify-content-center">
+        <button type="submit" class="btn btn-info">Add</button>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />}

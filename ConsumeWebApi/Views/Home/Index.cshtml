@@ -1,0 +1,24 @@
+﻿@model WebApiModels.ToDoInputModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>To Do list</h2>
+        <partial name="_AllToDoItemsPartial" />
+    </div>
+    <div class="col-md-3">
+        <h2>Create To Do item</h2>
+        <partial name="_PostToDoItemPartial" />
+    </div>
+    <div class="col-md-3">
+        <h2>Edit To Do item</h2>
+        <partial name="_EditToDoItemPartial" />
+    </div>
+    <div class="col-md-3">
+        <h2>Delete To Do item</h2>
+        <partial name="_DeleteToDoItemPartial" />
+    </div>
+</div>

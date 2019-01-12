@@ -1,0 +1,9 @@
+﻿@model WebApiModels.ToDoInputModel
+
+<ol>
+    @foreach (var item in Model.Items)
+    {
+        <li><h5><em>Task name:</em> <strong>@item.Name</strong> - 
+            <em>Finished:</em> <strong>@item.IsComplete</strong></h5></li>
+    }
+</ol>
