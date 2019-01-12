@@ -1,0 +1,15 @@
+C:\C#\WEB\WebApiModels\bin\Debug\netcoreapp2.2\WebApiModels.deps.json
+C:\C#\WEB\WebApiModels\bin\Debug\netcoreapp2.2\WebApiModels.dll
+C:\C#\WEB\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.csprojAssemblyReference.cache
+C:\C#\WEB\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.csproj.CoreCompileInputs.cache
+C:\C#\WEB\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.AssemblyInfoInputs.cache
+C:\C#\WEB\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WebApiModels\bin\Debug\netcoreapp2.2\WebApiModels.deps.json
+C:\C#\WEB\ASP.Net Core\WebApiModels\bin\Debug\netcoreapp2.2\WebApiModels.dll
+C:\C#\WEB\ASP.Net Core\WebApiModels\bin\Debug\netcoreapp2.2\WebApiModels.pdb
+C:\C#\WEB\ASP.Net Core\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.dll
+C:\C#\WEB\ASP.Net Core\WebApiModels\obj\Debug\netcoreapp2.2\WebApiModels.pdb
