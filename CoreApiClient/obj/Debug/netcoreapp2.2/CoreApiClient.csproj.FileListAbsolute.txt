@@ -1,0 +1,14 @@
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\WebApiModels.dll
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\CoreApiClient.deps.json
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\CoreApiClient.dll
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\CoreApiClient.pdb
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\WebApiModels.pdb
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.csproj.CopyComplete
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.dll
+C:\C#\WEB\ASP.Net Core\CoreApiClient\obj\Debug\netcoreapp2.2\CoreApiClient.pdb
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\CoreApiClient.runtimeconfig.json
+C:\C#\WEB\ASP.Net Core\CoreApiClient\bin\Debug\netcoreapp2.2\CoreApiClient.runtimeconfig.dev.json
