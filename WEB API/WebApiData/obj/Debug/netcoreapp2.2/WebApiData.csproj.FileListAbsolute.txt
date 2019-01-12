@@ -1,0 +1,9 @@
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\bin\Debug\netcoreapp2.2\WebApiData.deps.json
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\bin\Debug\netcoreapp2.2\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.2\WebApiData.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.2\WebApiData.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.2\WebApiData.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.2\WebApiData.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\bin\Debug\netcoreapp2.2\WebApiData.pdb
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.2\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.2\WebApiData.pdb

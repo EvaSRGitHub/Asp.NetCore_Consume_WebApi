@@ -1,0 +1,34 @@
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.deps.json
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.runtimeconfig.json
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.runtimeconfig.dev.json
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.dll
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.pdb
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.RazorAssemblyInfo.cache
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.RazorAssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.RazorTargetAssemblyInfo.cache
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.dll
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.pdb
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApiData.pdb
+C:\C#\WEB\ASP.Net Core\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.csproj.CopyComplete
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.deps.json
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.runtimeconfig.json
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.runtimeconfig.dev.json
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.dll
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApi_Demo.pdb
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\bin\Debug\netcoreapp2.2\WebApiData.pdb
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.RazorAssemblyInfo.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.RazorAssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.RazorTargetAssemblyInfo.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.csproj.CopyComplete
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.dll
+C:\C#\WEB\ASP.Net Core\WEB API\WebApi_Demo\obj\Debug\netcoreapp2.2\WebApi_Demo.pdb

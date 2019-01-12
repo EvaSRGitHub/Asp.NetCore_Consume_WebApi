@@ -1,0 +1,18 @@
+C:\C#\WEB\ASP.Net Core\WebApiData\bin\Debug\netcoreapp2.1\WebApiData.deps.json
+C:\C#\WEB\ASP.Net Core\WebApiData\bin\Debug\netcoreapp2.1\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WebApiData\bin\Debug\netcoreapp2.1\WebApiData.pdb
+C:\C#\WEB\ASP.Net Core\WebApiData\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\C#\WEB\ASP.Net Core\WebApiData\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.csproj.CopyComplete
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.pdb
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.csprojAssemblyReference.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.csproj.CoreCompileInputs.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.AssemblyInfoInputs.cache
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.AssemblyInfo.cs
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.dll
+C:\C#\WEB\ASP.Net Core\WEB API\WebApiData\obj\Debug\netcoreapp2.1\WebApiData.pdb
